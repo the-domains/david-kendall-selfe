@@ -29,8 +29,14 @@ purpose:
   - type: contact
     url: 'mailto:info@ecville.com'
     label: Contact me
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b8e9f5d-bcf3-4745-af7e-c36d2a3f1db0.png
+favicon: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3514a46-4cb7-433d-98b4-5cf735ca01d8.png
 github: true
+author:
+  name: Kendall Selfe
+  email: info@ecville.com
+opengraph:
+  appId: kendall.selfe.7
+analytics:
+  twitter: The ELements
