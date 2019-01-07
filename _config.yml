@@ -1,0 +1,36 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.6374608890619129
+  lightness: 0.27076852950267494
+  saturation: 0.10820943349972367
+  rhythmicContrast: 0.9218152505345643
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: David Kendall Selfe
+layout_spectrum: 0.7822482970077544
+typography_spectrum: 0.09503937093541026
+content: []
+title: David Kendall Selfe
+description: 1000 hr Yoga Certified Teacher
+purpose:
+  - type: external
+    url: 'http://ecville.com'
+    label: The Elements Charlottesville
+  - type: contact
+    url: 'mailto:info@ecville.com'
+    label: Contact me
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b8e9f5d-bcf3-4745-af7e-c36d2a3f1db0.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3514a46-4cb7-433d-98b4-5cf735ca01d8.png
+github: true
